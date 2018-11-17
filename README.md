@@ -32,13 +32,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexsxander/subir_multiples_imagenes_android_usando_okhttp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+ Support or Contact
 
-lo pimero es agregar las dependencias de okhttp
+### Agregar las dependencias de okhttp
 
+###  Usando Gradle
 compile 'com.squareup.okhttp3:okhttp:3.12.0'
 
-y el link 
+### Usando Maven
+
+Para más información le dejo el link aqui abajo
 
 http://square.github.io/okhttp/
 
