@@ -41,6 +41,13 @@ compile 'com.squareup.okhttp3:okhttp:3.12.0'
 
 ### Usando Maven
 
+<dependency>
+  <groupId>com.squareup.okhttp3</groupId>
+  <artifactId>okhttp</artifactId>
+  <version>3.12.0</version>
+</dependency>
+
+
 Para más información le dejo el link aqui abajo
 
 http://square.github.io/okhttp/
